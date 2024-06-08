@@ -12,4 +12,4 @@
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khursani8/competition/light)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/khursani8/khursani8/blob/master/EIE4JFG.gif?raw=true');]{x0000}$}
