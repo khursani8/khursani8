@@ -14,7 +14,7 @@ I care about rigorous experiments, error analysis, and making models work reliab
 
 ### Selected technical writing from Revolab
 
-These are **team publications**, shared as context for the research and engineering problems tackled at Revolab—not claims of sole authorship.
+Technical articles published under Revolab's team bylines, showing the research and engineering problems tackled by the group.
 
 - [A Breakdown of Failure Modes in Autoregressive TTS](https://www.revolab.ai/blogs/autoregressive-tts-failure-modes/) — examines repetition and omission failures in Orpheus 3B using controlled digit-sequence tests and attention analysis.
 - [Introducing the Malaysian Speech Benchmark Dataset](https://www.revolab.ai/blogs/malaysian-asr-benchmark-dataset/) — documents a 1,899-sample, 12-domain speech evaluation set, with public/held-out splits and Malaysian speech normalization considerations.
