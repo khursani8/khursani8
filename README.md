@@ -2,7 +2,7 @@
 
 **AI Research Lead | Speech & Language Model Engineering**
 
-I lead applied AI research in Malaysia, with a focus on training, evaluating, and deploying speech systems. My work spans ASR and TTS, multilingual data, model adaptation, and low-latency inference.
+I lead the AI research team at Revolab, focused on training, evaluating, and deploying speech systems. My work spans ASR and TTS, multilingual data, model adaptation, and low-latency inference—including guiding research direction and turning experiments into production systems.
 
 I care about rigorous experiments, error analysis, and making models work reliably beyond a benchmark. More recently, I've also been exploring language-model pretraining and evaluation.
 
@@ -12,9 +12,9 @@ I care about rigorous experiments, error analysis, and making models work reliab
 - **Training and data:** model fine-tuning, corpus curation, data quality, and multi-GPU workflows
 - **Evaluation and deployment:** benchmarking, failure analysis, inference optimization, and production integration
 
-### Selected technical writing from Revolab
+### Research led at Revolab
 
-Technical articles published under Revolab's team bylines, showing the research and engineering problems tackled by the group.
+I lead the research team behind the work discussed in these articles. They document the team's investigations into model failure modes, Malaysian speech evaluation, and production ASR engineering, and are published under Revolab's team bylines.
 
 - [A Breakdown of Failure Modes in Autoregressive TTS](https://www.revolab.ai/blogs/autoregressive-tts-failure-modes/) — examines repetition and omission failures in Orpheus 3B using controlled digit-sequence tests and attention analysis.
 - [Introducing the Malaysian Speech Benchmark Dataset](https://www.revolab.ai/blogs/malaysian-asr-benchmark-dataset/) — documents a 1,899-sample, 12-domain speech evaluation set, with public/held-out splits and Malaysian speech normalization considerations.
