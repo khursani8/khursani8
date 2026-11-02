@@ -1,32 +1,22 @@
-# Mohammad Khursani
+# Hi, I'm Khursani
 
-**AI Research Lead | Speech & Language Model Engineering**
+I lead the AI research team at [Revolab](https://www.revolab.ai/). We build ASR and TTS systems for Malaysian speech. A lot of the work comes down to code-switching, noisy recordings, and getting models to respond fast enough for a conversation.
 
-I lead the AI research team at Revolab, focused on training, evaluating, and deploying speech systems. My work spans ASR and TTS, multilingual data, model adaptation, and low-latency inference—including guiding research direction and turning experiments into production systems.
+I still work on the models myself, from training and evaluation to debugging the cases where they fail. I've also been experimenting with language-model pretraining and function-calling evaluation.
 
-I care about rigorous experiments, error analysis, and making models work reliably beyond a benchmark. More recently, I've also been exploring language-model pretraining and evaluation.
+## What we've been working on
 
-### Areas of work
+A few write-ups from the team:
 
-- **Speech AI:** ASR, TTS, code-switching, and real-time conversational systems
-- **Training and data:** model fine-tuning, corpus curation, data quality, and multi-GPU workflows
-- **Evaluation and deployment:** benchmarking, failure analysis, inference optimization, and production integration
+- [Failure modes in autoregressive TTS](https://www.revolab.ai/blogs/autoregressive-tts-failure-modes/) - we tested why Orpheus 3B repeats or skips parts of speech, including a look at attention patterns.
+- [Malaysian ASR benchmark](https://www.revolab.ai/blogs/malaysian-asr-benchmark-dataset/) - a speech test set covering 12 domains and 1,899 samples.
+- [Building ASR for Malaysia](https://www.revolab.ai/blogs/how-we-built-asr-for-malaysia/) - what we ran into with code-switching, telephony audio, and real-world evaluation.
 
-### Research led at Revolab
+These were published by the Revolab team, which I lead.
 
-I lead the research team behind the work discussed in these articles. They document the team's investigations into model failure modes, Malaysian speech evaluation, and production ASR engineering, and are published under Revolab's team bylines.
+## Other experiments
 
-- [A Breakdown of Failure Modes in Autoregressive TTS](https://www.revolab.ai/blogs/autoregressive-tts-failure-modes/) — examines repetition and omission failures in Orpheus 3B using controlled digit-sequence tests and attention analysis.
-- [Introducing the Malaysian Speech Benchmark Dataset](https://www.revolab.ai/blogs/malaysian-asr-benchmark-dataset/) — documents a 1,899-sample, 12-domain speech evaluation set, with public/held-out splits and Malaysian speech normalization considerations.
-- [How We Built Speech Recognition for Malaysia](https://www.revolab.ai/blogs/how-we-built-asr-for-malaysia/) — discusses code-switching, telephony audio, error analysis, and the trade-offs behind a deployed ASR system.
+- [synthpre-557m](https://huggingface.co/khursani8/synthpre-557m) - notes and an early checkpoint from a Malay language-model pretraining run.
+- [BFCL-Malay](https://huggingface.co/datasets/khursani8/bfcl-ms) - a Malay adaptation of the BFCL function-calling benchmark.
 
-### Other public experiments
-
-These are **research artifacts and experiments**, not claims of frontier-model performance:
-
-- [Malay language-model pretraining experiment](https://huggingface.co/khursani8/synthpre-557m) — a 557M-parameter base-model **early checkpoint**, with notes on corpus preparation, deduplication, and training choices; not a completed training run.
-- [BFCL-Malay](https://huggingface.co/datasets/khursani8/bfcl-ms) — a Malay-language adaptation of an existing function-calling evaluation benchmark.
-
-Some of my production research work is not publicly available. I prefer to distinguish production experience, reproducible experiments, and work in progress.
-
-[Hugging Face](https://huggingface.co/khursani8) · [GitHub](https://github.com/khursani8) · [Kaggle](https://www.kaggle.com/khursani8)
+[Hugging Face](https://huggingface.co/khursani8) · [Kaggle](https://www.kaggle.com/khursani8)
