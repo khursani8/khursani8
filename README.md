@@ -32,6 +32,10 @@ I run autonomous experimentation systems on top of that — agent loops that for
 - [sev-oss](https://github.com/khursani8/sev-oss) — a System One decision stack for Malaysian language: one model, many questions, reproducible benchmarks
 - [teach-aws-oss](https://github.com/khursani8/teach-aws-oss) — open experiment record: LoRA finetuning Qwen3.5-2B for Malay AWS QA, failures included
 
+### Consulting — computer vision (part-time)
+
+Part-time with [ITXOTIC](https://www.linkedin.com/in/ammar-zolkipli/) (2023): built the ALPR model and pipeline — YOLO detection + OCR — for a Maxis joint program: a petrol-pump license-plate-recognition mockup targeting automated refueling and fuel-subsidy vehicles.
+
 ## Contact
 
 [inbox@khursani.dev](mailto:inbox@khursani.dev) · [Hugging Face](https://huggingface.co/khursani8) · [Kaggle](https://www.kaggle.com/khursani8) · [Blog](https://blog.khursani.dev)
